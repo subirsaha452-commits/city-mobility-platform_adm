@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment / secrets
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spark / Hadoop temp
+derby.log
+metastore_db/
+spark-warehouse/
+
+# Large binary JARs (downloaded separately)
+graphframes.jar
+
+# Benchmark output (optional - keep CSV)
+# benchmark_results.csv
+
+# Personal study material (not for submission)
+Study_Guides/
