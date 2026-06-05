@@ -40,7 +40,8 @@ ADM_New_Project/
 │   └── benchmark_results.csv    # Actual measured timings
 │
 ├── Reports/                     # Deliverable documents
-│   ├── ADM_Project_Report_Subir_Saha_946898.pdf   # Main report (24 pages)
+│   ├── ADM_Project_Report_Subir_Saha_Final.pdf    # Main report (51 pages)
+│   ├── ADM_Project_Report_Subir_Saha_Final.docx   # Word source
 │   └── generate_report_v2.py    # Report generator script
 │
 └── app/                         # Database connection helpers
@@ -122,8 +123,8 @@ Edges: `[:PERFORMED]`, `[:STARTS_AT]`, `[:ENDS_AT]`
 | Q4 — ERROR events | 0.13s → 1.43s | 0.03s → 0.61s | **MongoDB** |
 
 **GraphFrames PageRank Top-3:**
-1. Padua Porto — 1.149316
-2. Milan Stadio — 1.122747
-3. Verona Sud — 1.089738
+1. Milan Parco — 1.13
+2. Palermo doumo — 1.12
+3. Florence ovest — 1.10
 
 **Connected Components:** 50 stations → 1 component (fully connected network)
